@@ -1,6 +1,6 @@
 #!/bin/sh
 
-palette="/tmp/palette.png"
+palette="/tmp/ffmpeg-palette.png"
 
 filters="fps=$4,scale=$3:-1:flags=lanczos"
 
